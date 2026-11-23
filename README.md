@@ -2,7 +2,7 @@
 Use this program if you want to see the current weather of a city!
 
 # Link
-[Check out the Site!](https://bank-rec-assist.onrender.com/)
+[Check out the Site!](https://weatherapibyje.netlify.app/)
 
 # 📋 How to use
 1. Open the app in your browser

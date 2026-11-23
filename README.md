@@ -1,6 +1,9 @@
 # ☀️ Weather App
 Use this program if you want to see the current weather of a city!
 
+# Link
+[Check out the Site!](https://bank-rec-assist.onrender.com/)
+
 # 📋 How to use
 1. Open the app in your browser
 2. Choose a date, submit
